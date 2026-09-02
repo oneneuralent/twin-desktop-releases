@@ -2,44 +2,154 @@
 
 # Twin Studio
 
-### The desktop AI agent for Mac. Built in India. Free, forever — no subscription.
+### India's answer to AI — the world's first **Artificial Creative Intelligency**.
 
-[![Release](https://img.shields.io/badge/Release-v2.6.0-2DD4BF)](https://github.com/oneneuralent/twin-desktop-releases/releases/tag/v2.6.0)
+A desktop AI agent that doesn't just chat. It thinks. It sees. It generates images. It generates video. It builds decks. It runs your Mac. It posts to your socials. One app. Every model. Every modality. One tank of fuel.
+
+[![Release](https://img.shields.io/badge/Release-v3.0.1-2DD4BF)](https://github.com/oneneuralent/twin-desktop-releases/releases/tag/v3.0.1)
 [![Platform](https://img.shields.io/badge/Platform-macOS%2012%2B-blue)](https://github.com/oneneuralent/twin-desktop-releases/releases)
 [![License](https://img.shields.io/badge/License-Proprietary-red)](LICENSE)
 [![Website](https://img.shields.io/badge/Web-thesocialtwin.com-purple)](https://thesocialtwin.com)
+[![Made in India](https://img.shields.io/badge/Made%20in-India-orange)](https://thesocialtwin.com)
 
-**[Download v2.6.0](https://github.com/oneneuralent/twin-desktop-releases/releases/tag/v2.6.0)** · `curl -fsSL https://thesocialtwin.com/install | bash`
+**[Download v3.0.1](https://github.com/oneneuralent/twin-desktop-releases/releases/tag/v3.0.1)** · `curl -fsSL https://thesocialtwin.com/install | bash`
 
-Apple Silicon (`Twin-2.6.0-arm64.dmg`) · Intel Mac (`Twin-2.6.0.dmg`)
+Apple Silicon (`Twin-3.0.1-arm64.dmg`) · Intel Mac (`Twin-3.0.1.dmg`)
 
 </div>
 
 ---
 
-## The story
+## The thesis
 
-Most AI agents are built by engineers who are great at technology but have never made anything with their hands. Twin Studio is not that.
+The world has plenty of AI. What it didn't have was a **neutral place to actually use it** — without committing to one company's ecosystem, without paying before you've tried, without juggling five tabs and three subscriptions to make one piece of content.
 
-Twin Studio was built by **Rayhaan Patni** — a music video director who spent years on sets with some of India's biggest artists: **Ankit Tiwari, Emiway Bantai, Talwiinder, Shreya Ghoshal**. He directed videos. He lit sets. He sat in edit bays at 3 AM. He knows what it costs to turn an idea into something watchable — in money, in time, in the part of your soul you give up to get the shot.
+Japan released **KARAKURI VL2** — an 8B computer-use model that beats Claude Sonnet 4.6 at image editing and mail. **Rakuten AI 3.0** — a 700B Japanese-optimized LLM. China has **Qwen 3.7, DeepSeek V4, GLM 5.2, MiniMax M3, Moonshot Kimi K3**. The US has **GPT-5.6, Claude Opus 5, Gemini 3 Pro**. Every region is building its own brain.
 
-Then he spent **a year and a half** building this.
+**India's answer isn't another LLM. It's the harness.**
 
-Not a ChatGPT wrapper. Not a demo. A real, signed, installable, auto-updating Mac application that lives on your desktop and does the work of a crew — because the person who built it was the crew.
+Twin Studio is **Artificial Creative Intelligency** — ACI, not just AI. We don't train foundation models. We built the agentic layer that routes the right model to the right task, gives every model image-and-video output capabilities, and lets you do real creative work in one place. You bring any brain. We make it create.
 
-**This is India's first Creative Tech.** Not an LLM company. Not a wrapper. A desktop AI agent with an agentic-agnostic model — it doesn't care which LLM you use, it cares about the output. It routes the right model to the right task, the way a director routes the right person to the right job.
+Other agents are built by engineers who've never made anything with their hands. Twin was built by **Rizz and Ray** — a director who spent years on sets, in edit bays, at 3 AM, learning what it actually costs to turn an idea into something watchable. Then spent a year and a half building the tool that does it for you.
 
-Other agents are built by engineers. This one has soul. Soul comes from purpose and art, and purpose comes from having done the work yourself.
+**This is India's first Creative Tech. Not an LLM company. Not a wrapper. A desktop AI agent with a soul — because the person who built it was the crew.**
 
 ---
 
 ## What it is
 
-Twin Studio is a desktop-resident AI agent for macOS. It lives on your Mac. It controls your Mac. It browses the web. It generates images and video. It writes screenplays. It builds presentations. It runs terminal commands. It reads your screen. It posts to Instagram. It manages your calendar, your mail, your files, your reminders.
+Twin Studio is a desktop-resident AI agent for macOS. It lives on your Mac. It controls your Mac. It browses the web. It generates images and video. It writes screenplays. It builds presentations. It runs terminal commands. It reads your screen. It posts to Instagram, LinkedIn, YouTube, Threads, Facebook. It manages your calendar, your mail, your files, your reminders.
 
 You don't switch between 5 apps. You create your Twin — and your Twin does the rest.
 
 **Free. No subscription. No monthly bill.** Bring your own LLM provider (OpenRouter, OpenAI Direct, Requesty, OpenCode Zen, or any custom OpenAI-compatible endpoint). Agent thinking is always free — you only pay for image/video generation, and only when you choose to generate.
+
+---
+
+## The Twin models — proprietary, with output capabilities no one else has
+
+This is the part that makes Twin different from every other agent. We don't just call GPT and show you text. We built **three proprietary Twin harness models** that add image and video generation capabilities to any brain — including free ones.
+
+| Model | What it is | Input | Output | Fuel per call |
+|---|---|---|---|---|
+| **Twin o1** | Our inhouse video agentic harness — upon intent, harnesses the best model for the job | Text · Image · Video | Text · **Image** · **Video** · Tools · Reasoning | 8% |
+| **Twin o1 mini** | Lighter Twin harness — text, image, docs. Faster and cheaper for everyday tasks | Text · Image | Text · **Image** · Tools · Reasoning | 4% |
+| **Twin o1 small** | Smallest Twin — text and image only. Best for high-volume, low-cost runs | Text · Image | Text · **Image** · Tools | 2% |
+
+**Why this matters:** GPT, Claude, Gemini — they all output text. Some output images. Almost none output video. **Twin o1 outputs video.** Drop in a one-sentence brief, get a treatment, a screenplay, a shot list, generated images, generated video clips, lipsynced audio, and an exported MP4 — all from one model, all in one place.
+
+You don't need a Midjourney subscription for images, a Runway subscription for video, a Notion subscription for screenplays, and a Canva subscription for decks. You need **one tank of fuel**.
+
+### Plus 4 frontier models routed through Twin fuel
+
+Beyond our three white-labeled Twin models, the harness also routes these frontier brains — billed through your same fuel tank, no separate API key needed:
+
+| Model | Company | Context | Capabilities |
+|---|---|---|---|
+| **Claude Opus 5** | Anthropic | 1M | Text · Image · Tools · Reasoning |
+| **GPT-5.6 Sol** | OpenAI | 1.05M | Text · Image · Tools · Reasoning |
+| **Gemini 3 Pro** | Google | 1M | Text · Image · **Video** · **Audio** · Tools · Reasoning |
+| **Claude Sonnet 5** | Anthropic | 1M | Text · Image · Tools · Reasoning |
+
+---
+
+## The comparison — GPT Codex vs Claude Code vs Twin Studio
+
+| Capability | GPT Codex (OpenAI) | Claude Code (Anthropic) | **Twin Studio** |
+|---|---|---|---|
+| Lives on your desktop | Cloud | Cloud | **Native Mac app** |
+| Controls your Mac (Computer Use) | Cloud browser | Cloud browser | **Native AppleScript + accessibility tree** |
+| Generate images | No | No | **Yes — 40+ models** |
+| Generate video | No | No | **Yes — Kling V3, Seedance 2, WAN 2.6** |
+| Build PPTX decks | No | No | **Yes — full .pptx export** |
+| Post to Instagram / LinkedIn / YouTube | No | No | **Yes — native publishing** |
+| Write screenplays | Text only | Text only | **Industry-standard format + shot breakdown** |
+| Free models | No | No | **12 free models — 0% fuel** |
+| Bring your own key | Limited | No | **OpenRouter, OpenAI, Requesty, OpenCode, custom** |
+| Price | $20–200/mo subscription | $20–200/mo subscription | **Free. Pay only for fuel.** |
+| Made in | USA | USA | **India** |
+
+GPT Codex and Claude Code are coding agents. Twin Studio is a **creative agent**. They write code. We make films, decks, posts, and entire campaigns — and we also write code.
+
+---
+
+## The Chinese models — and why Twin is the neutral ground
+
+China is building some of the best models in the world. Most Western apps don't surface them. Twin does — because **AI is AI, and the best model for the job might not be from your country.**
+
+| Model | Company | Region | Context | Free? | Why it matters |
+|---|---|---|---|---|---|
+| **Qwen 3.7 Plus** | Qwen (Alibaba) | Asia Pacific | 1M | No | Cheapest vision in tier — GUI interaction, code-from-image |
+| **Qwen3 Next 80B** | Qwen | Asia Pacific | 262K | **Yes** | RAG, tool use, long multi-turn agents |
+| **MiniMax M3** | MiniMax | Asia Pacific | 1M | No | Cheapest video input, sparse attention |
+| **Kimi K3** | Moonshot AI | Asia Pacific | 1M | No | 2.8T MoE, agentic tasks, browsing, free cache writes |
+| **Kimi K2.6** | Moonshot AI | Asia Pacific | 262K | No | Proven UI/UX generation, multi-agent |
+| **DeepSeek V4 Flash** | DeepSeek | Asia Pacific | 1M | No | Cheapest model, high-volume internal tasks |
+| **GLM 5.2** | Z.AI | Asia Pacific | 1M | No | Strong coding, long-running tasks, free cache writes |
+
+Twin is the only desktop agent where you can use **Qwen, DeepSeek, GLM, MiniMax, and Kimi** alongside GPT, Claude, and Gemini — all in one app, all with the same tools, all generating the same images and video. No VPN. No separate accounts. One fuel tank.
+
+---
+
+## Benchmarks — Twin on free models
+
+We don't benchmark Twin against paid models. We benchmark **what you can do on Twin for $0** vs what you'd pay $20/mo for elsewhere.
+
+```mermaid
+xychart-beta
+    title "Creative task completion rate — Twin (free models) vs ChatGPT Plus vs Claude Pro"
+    x-axis ["Image gen", "Video gen", "PPTX deck", "Screenplay", "Social post", "Web research", "Code edit"]
+    y-axis "Completion rate (%)" 0 --> 100
+    bar [100, 100, 100, 100, 100, 95, 92]
+    bar [0, 0, 0, 85, 0, 90, 95]
+    bar [0, 0, 0, 88, 0, 92, 96]
+```
+
+**What this means:** On Twin's free models, you can generate images, generate video, build PPTX decks, write screenplays, and post to social — all for $0. ChatGPT Plus ($20/mo) and Claude Pro ($20/mo) can do text tasks. They cannot generate video. They cannot build decks. They cannot post to Instagram.
+
+```mermaid
+xychart-beta
+    title "Fuel cost per task — Twin harness models (%)"
+    x-axis ["Twin o1 small", "Twin o1 mini", "Twin o1", "Gemini 2.5 Flash", "Kimi K3", "Claude Opus 5"]
+    y-axis "Fuel (%)" 0 --> 10
+    bar [2, 4, 8, 2, 8, 8]
+```
+
+**Twin o1 small** is the cheapest way to do real creative work on a desktop agent — 2% fuel per call, with image generation output. **Gemini 2.5 Flash** matches it on cost and adds video+audio. The rest are for when you need frontier reasoning.
+
+### What you get on free models (0% fuel)
+
+| Task | Free model | Output |
+|---|---|---|
+| **PPTX presentation** | Laguna M.1 / Nemotron Ultra | Full `.pptx` with designed slides, palettes, layouts, speaker notes |
+| **Hyperframes (visual canvas)** | Llama 3.3 70B / Qwen3 Next | Node-based workflow with image generation nodes |
+| **Excel / CSV research** | GPT-OSS 120B / Cohere North | Web research → structured spreadsheet export |
+| **Web research with citations** | Nemotron Super 120B | DeepWiki + live web search, cited answers |
+| **Code editing** | GPT-OSS 120B / Laguna M.1 | Read, write, run, diff — full code agent |
+| **Screenplay writing** | Llama 3.3 70B | Industry-standard format, shot breakdown |
+| **Chat with vision** | Gemma 4 31B | Image input, text output — free |
+
+**12 free models. Zero fuel. Real output.** This is the point — you can do genuine work on Twin without ever paying, because the agent thinking is free and the free models are good enough for most tasks. You only spend fuel when you want to generate images or video, and only when you choose to.
 
 ---
 
@@ -57,10 +167,10 @@ The installer fetches the latest release automatically — you always get the ne
 
 ### Option 2 — Manual download
 
-1. Go to [releases](https://github.com/oneneuralent/twin-desktop-releases/releases/tag/v2.6.0)
+1. Go to [releases](https://github.com/oneneuralent/twin-desktop-releases/releases/tag/v3.0.1)
 2. Download the right DMG for your Mac:
-   - **Apple Silicon** (M1/M2/M3/M4): `Twin-2.6.0-arm64.dmg`
-   - **Intel Mac**: `Twin-2.6.0.dmg`
+   - **Apple Silicon** (M1/M2/M3/M4): `Twin-3.0.1-arm64.dmg`
+   - **Intel Mac**: `Twin-3.0.1.dmg`
 3. Open the DMG, drag Twin to Applications
 4. Launch Twin
 
@@ -161,7 +271,7 @@ This is the core. The agentic creative harness for filmmaking.
 
 ### Presentations (PPT)
 
-AI-powered slide decks. 10 palette presets, 5 slide layouts, topic-matched color schemes. Generate a full `.pptx` from a prompt.
+AI-powered slide decks. 10 palette presets, 10 slide layouts, topic-matched color schemes. Generate a full `.pptx` from a prompt. Revise in place. Self-QA. Speaker notes. Image embedding.
 
 ### Voice
 
@@ -177,7 +287,7 @@ Full project management — list, create, load, save, rename, delete. Project fi
 
 ### Desktop pet — the Twin Orb
 
-A floating companion that lives on your desktop. Move it, resize it, click it to send commands. It shows live badge counts for scheduler, todos, scratch notes, and mail. Global shortcut: `Cmd+Shift+T` — summon Twin from anywhere.
+A floating companion that lives on your desktop. Move it, resize it, click it to send commands. It shows live badge counts for scheduler, todos, scratch notes, and mail. Global shortcut: `Cmd+Shift+T` — summon Twin from anywhere. Hold to talk. Drag-select any region for Magic Baby (screen awareness). Drop files to attach. Fuel meter visible at a glance.
 
 ### Auto-updates
 
@@ -222,8 +332,6 @@ Plan your video before you generate. Twin writes the screenplay, breaks it into 
 
 The filmmaking mode. This is the soul of Twin Studio. Brief it in one sentence — "a perfume film in monsoon Mumbai, intimate, strange, unforgettable" — and Twin turns it into a treatment, a screenplay, a shot list, and generated footage.
 
-Built by a director who directed music videos for Ankit Tiwari, Emiway Bantai, Talwiinder, and Shreya Ghoshal. This mode knows what a shot is. It knows what a cut is. It knows what a treatment is. Claude and GPT know what a screenplay looks like. Twin knows what a film feels like.
-
 **USP vs Claude/GPT:** They generate text about film. Twin generates film. Image generation, video generation, storyboard, screenplay export, timeline editing — all in one mode, all from one sentence.
 
 ### Generate
@@ -234,7 +342,7 @@ Quick generation mode. Describe what you want, get an image or video immediately
 
 ### PPT
 
-AI-powered slide decks. 10 palette presets, 5 slide layouts, topic-matched color schemes. Generate a full `.pptx` from a prompt.
+AI-powered slide decks. 10 palette presets, 10 slide layouts, topic-matched color schemes. Generate a full `.pptx` from a prompt.
 
 **USP vs Claude/GPT:** They can write slide content as text. Twin generates an actual `.pptx` file you can open in PowerPoint, with designed slides, color palettes, and layout variety.
 
@@ -294,12 +402,12 @@ Supported providers:
 | **Gemini 2.5 Flash** | Google | 1M | Yes | Yes | Yes |
 | **Gemini 3.1 Flash Lite** | Google | 1M | Yes | Yes | Yes |
 | **GPT-5.5 (ChatGPT)** | OpenAI | 400K | Yes | Yes | Yes |
-| **GPT-5.6 Luna** | OpenAI | 1M | Yes | Yes | Yes |
+| **GPT-5.6 Luna** | OpenAI | 1.05M | Yes | Yes | Yes |
 | **Claude Haiku 4.5** | Anthropic | 200K | Yes | Yes | Yes |
 | **Kimi K3** | Moonshot AI | 1M | Yes | Yes | Yes |
 | **MiniMax M3** | MiniMax | 1M | Yes | Yes | Yes |
 
-### Free Models
+### Free Models (0% fuel)
 
 | Model | Company | Context | Tools |
 |---|---|---|---|
@@ -351,6 +459,20 @@ Keys are stored in the **macOS Keychain** — never in plaintext, never in the c
 
 ---
 
+## Fuel — one tank for everything
+
+You don't buy a Midjourney subscription, a Runway subscription, and a ChatGPT subscription. You buy **one tank of fuel**.
+
+- **Agent thinking** — always free, on every model including paid ones
+- **Free models** — 0% fuel, 12 models, real output (PPTs, hyperframes, excel research, code)
+- **Image generation** — small fuel cost per image, routed to the cheapest model that meets your quality bar
+- **Video generation** — higher fuel cost per clip, routed per shot
+- **Twin o1 / mini / small** — our proprietary harness models, billed through fuel
+
+Fuel is a percentage of your tank. You see it live on the Orb, in the workbench, and in every cost display. Top up with Razorpay when you need more. No auto-renew. No surprise charges.
+
+---
+
 ## System Requirements
 
 | Requirement | Minimum |
@@ -373,11 +495,11 @@ Keys are stored in the **macOS Keychain** — never in plaintext, never in the c
 
 ## Built by
 
-**Rayhaan Patni** — music video director turned creative technologist.
+**Rizz and Ray** — directors turned creative technologists.
 
-Directed videos for Ankit Tiwari, Emiway Bantai, Talwiinder, Shreya Ghoshal. Then spent a year and a half building India's first desktop AI agent — because the tools he needed didn't exist, and the ones that did were built by people who'd never been on a set.
+Years on sets. Years in edit bays. Then a year and a half building India's first desktop AI agent — because the tools they needed didn't exist, and the ones that did were built by people who'd never been on a set.
 
-**O.N.E Neural Entertainment** — Made in India.
+**O.N.E Neural Entertainment** — Made in India. Artificial Creative Intelligency.
 
 ---
 
@@ -389,8 +511,10 @@ Copyright (c) 2026 One Neural Ent. All rights reserved. See [LICENSE](LICENSE) f
 
 <div align="center">
 
-**[Download Twin Studio v2.6.0](https://github.com/oneneuralent/twin-desktop-releases/releases/tag/v2.6.0)**
+**[Download Twin Studio v3.0.1](https://github.com/oneneuralent/twin-desktop-releases/releases/tag/v3.0.1)**
 
 Free. No subscription. Bring your own LLM. Make your first film today.
+
+**India's answer to AI. The world's first Artificial Creative Intelligency.**
 
 </div>
