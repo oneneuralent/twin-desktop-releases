@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use or reference Twin Studio, please cite it as below."
+title: "Twin Studio — India's Artificial Creative Intelligency"
+type: software
+authors:
+  - given-names: "Rayhaan"
+    family-names: "Patni"
+    alias: "Rizz"
+repository-code: "https://github.com/oneneuralent/twin-desktop-releases"
+url: "https://www.thesocialtwin.com"
+abstract: "Twin Studio is India's Artificial Creative Intelligency (ACI) — a desktop AI agent for macOS AND a web filmmaking platform by O.N.E Neural Entertainment. One app. Every model. Every modality. One tank of fuel."
+keywords:
+  - ai-agent
+  - ai-filmmaking
+  - desktop-ai
+  - aci
+  - artificial-creative-intelligence
+  - india
+  - agentic-ai
+license-url: "https://github.com/oneneuralent/twin-desktop-releases/blob/main/LICENSE"
+version: "3.0.1"
+date-released: "2026-09-02"
